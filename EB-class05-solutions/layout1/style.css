@@ -1,0 +1,34 @@
+*       {
+    box-sizing: border-box
+}
+
+
+h1, footer  {
+    
+    border: 1px solid black;
+    text-align: center;
+    clear: both;
+    background-color: aquamarine;
+    padding: 40px;
+    margin: 0;
+}
+
+section     {
+    padding: 50px;
+    border: 1px solid black;
+    text-align: center;
+    width: 33.3333%;
+    background-color: bisque;
+    float: left;
+
+}
+
+section.low     {
+    padding: 80px;
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+    background-color: bisque;
+    float: left;
+
+}
